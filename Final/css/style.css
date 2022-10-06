@@ -1,0 +1,244 @@
+.upper_body_first{
+  display: inline-block;
+  position: relative;
+  margin-left:50px;
+}
+.upper_body_second{
+  display: inline-block;
+  position: relative;
+
+  margin-left:50px;
+}
+.flower{
+  margin: 0 0 0 0;
+  width: 350px;
+  height: 300px;
+}
+.moon{
+  margin: 0 0 0 0;
+  width: 380px;
+  height: 300px;
+}
+
+.body{
+  padding: 0;
+  margin:0;
+}
+.upper_body{
+  height: 550px;
+  margin:10px 0 0 10px;
+
+}
+.upper_body_first{
+  position: relative;
+  display: inline-block;
+  padding-left: 50px;
+  height: 350px;
+  width: 400px;
+  margin:0;
+  width-left:100px;
+  padding-top: 0;
+}
+.upper_body_p{
+  position: relative;
+  display: inline-block;
+}
+.p1{
+  margin: 0 0 0 50px;
+  text-align: left;
+  position: relative;
+  display: inline-block;
+}
+.upper_body_second{
+  position: relative;
+  display: inline-block;
+  height: 350px;
+  width: 400px;
+  margin:0px 0 0 50px;
+}
+.p3{
+  position: relative;
+  display: inline-block;
+  margin: 0 0 0 160px;
+  text-align: left;
+}
+.upper_body_third{
+  height: 350px;
+  width: 350px;
+  position: relative;
+  display: inline-block;
+  margin:0 40px 100px 0;
+}
+
+
+
+.upper_body{
+  background-color: #FFF7E9;
+}
+
+.flower{
+
+  height: 300px;
+  width: 350px;
+}
+.moon{
+
+  height: 300px;
+  width: 350px;
+}
+
+.lowerbackground{
+  background-color: #DFD3C3;
+  text-transform: uppercase;
+  height: 2000px;
+}
+.something{
+  margin: 0 200px 0 200px;
+  padding-top: 50px;
+}
+.janedoe1{
+    width: 203px;
+    margin:0 0 0 210px;
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    display: inline-block;
+}
+.description1{
+  width: 203px;
+  margin:0 0 0 210px;
+  text-align: center;
+  font-size: 15px;
+  position: relative;
+  display: inline-block;
+}
+.johndoe2{
+  width: 203px;
+  margin:0 0 0 30px;
+  text-align: center;
+  font-size: 25px;
+  position: relative;
+  display: inline-block;
+}
+.description2{
+  width: 203px;
+  margin:0 0 0 30px;
+  text-align: center;
+  font-size: 15px;
+  position: relative;
+  display: inline-block;
+}
+.janedoe3{
+  width: 203px;
+  margin:0;
+  text-align: center;
+  font-size: 25px;
+  position: relative;
+  display: inline-block;
+}
+.description3{
+  width: 203px;
+  margin:0 0 0 3px;
+  text-align: center;
+  font-size: 15px;
+  position: relative;
+  display: inline-block;
+}
+.johndoe4{
+  width: 203px;
+  margin:0 0 0 50px;
+  text-align: center;
+  font-size: 25px;
+  position: relative;
+  display: inline-block;
+}
+.description4{
+  width: 203px;
+  margin:0 0 0 45px;
+  text-align: center;
+  font-size: 15px;
+  position: relative;
+  display: inline-block;
+}
+
+
+.somethingjanedoepng{
+  margin: 0 10px 0 10px;
+  width:200px;
+  position: relative;
+  display: inline-block;
+}
+.somethingjohndoepng{
+  margin: 0 10px 0 10px;
+  width:200px;
+  position: relative;
+  display: inline-block;
+}
+
+.lasttable{
+  display: block;
+
+  margin: 0 auto;
+  padding: 100px;
+}
+.jane_doe{
+  text-align: center;
+  font-size: 20px;
+}
+.john_doe{
+  text-align: center;
+  font-size: 20px;
+}
+.description{
+  margin:0;
+  font-size: 10px;
+  text-align: center;
+}
+.janedoepng{
+  padding: 30px;
+  width: 150px;
+  font-size: 100px;
+}
+.johndoepng{
+  width: 150px;
+}
+.get_in_touch{
+  margin: 0 0 10px 10px;
+}
+
+.name{
+  width: 235px;
+  margin: 0 0 10px 10px;
+}
+.email{
+  width: 235px;
+  margin: 0 0 10px 10px;
+}
+.textarea{
+  margin: 0 0 10px 10px;
+
+}
+.submit{
+  margin: 0 0 0 10px;
+  background-color: #42855B;
+  width: 245px;
+
+}
+
+.form{
+  color: grey;
+}
+
+.form_table{
+  margin:0px;
+}
+.jane_doe{
+
+  color: grey;
+  margin: 0;
+}
+.john_doe{
+
+  margin: 0;
+  color: grey;
+}
